@@ -2,11 +2,11 @@
 
 Key Insights Identified
 
-✔ Women contribute the highest sales share (~64–65%)
-✔ Top-performing states: Maharashtra, Karnataka & Uttar Pradesh
-✔ Adult age group (30–49 yrs) contributes the maximum orders (~50%)
-✔ Amazon, Flipkart & Myntra are the strongest sales channels
-✔ 92% of total orders were successfully delivered
+1) Women contribute the highest sales share (~64–65%)
+2) Top-performing states: Maharashtra, Karnataka & Uttar Pradesh
+3) Adult age group (30–49 yrs) contributes the maximum orders (~50%)
+4) Amazon, Flipkart & Myntra are the strongest sales channels
+5) 92% of total orders were successfully delivered
 
  Final Business Recommendation
 
